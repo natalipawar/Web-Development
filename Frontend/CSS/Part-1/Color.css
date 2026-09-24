@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    background-color: grey;
+}
+
+p{
+    color: red;
+    background: silver;
+}
+
+button{
+    color:darkgoldenrod;
+    background-color: burlywood;
+}
